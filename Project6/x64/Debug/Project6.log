@@ -1,0 +1,3 @@
+﻿  C2.c
+D:\course\C\Project6\C2.c(39,11): warning C4013: “sqrt”未定义；假设外部返回 int
+  Project6.vcxproj -> D:\course\C\Project6\x64\Debug\Project6.exe
