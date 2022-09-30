@@ -117,3 +117,18 @@ int main()
 	}
 	printf("k=%d a=%d\n",k,a);
 }
+
+
+int main()
+{
+	int i=1;
+	sum = 0;
+	for(i;i<=9;i++)
+	{
+		for(j<i;j<10;j++)
+		{
+			sum = i*j;
+			printf("i * j= sum %2d %2d %2d",i,j,sum);
+		}
+	}
+}
